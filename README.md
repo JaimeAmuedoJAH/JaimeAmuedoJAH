@@ -2,7 +2,7 @@
 
 <!-- Typing SVG con fondo -->
 <div style="background: linear-gradient(90deg, #FF6D00, #FF3CAC); padding: 20px; border-radius: 10px; margin: 20px 0;">
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=25&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=500&lines=Android+developer;Data+analyst"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=25&duration=2500&pause=1000&color=FF6D00&center=true&vCenter=true&random=false&width=500&lines=Android+developer;Data+analyst"/>
 </div>
 
 <!-- Badges de contacto -->
