@@ -12,6 +12,9 @@
 
 </div>
 
+## 📧 Correo electrónico
+
+jaimeamuedo@gmail.com
 
 ## 👋 Sobre mí
 Soy un desarrollador especializado en aplicaciones móviles y análisis de datos, apasionado por crear soluciones eficientes y escalables que combinan tecnología y datos.
