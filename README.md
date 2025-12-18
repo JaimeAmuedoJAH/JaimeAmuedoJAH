@@ -104,6 +104,9 @@ Exploración y limpieza de la base de datos Sakila: generación de dataframes en
 ### [Data-automatization](https://github.com/JaimeAmuedoJAH/Data-automatization)
 Automatización de extracción y procesamiento de datos con Python: pipelines ETL, visualizaciones y dashboard para bienestar digital.
 
+### [Análisis exploratorio-EDA](https://github.com/JaimeAmuedoJAH/P5-Analisis-Exploratorio-de-Datos-G6)
+Creación del análisis exhaustivo de un dataset, junto con la creación de un informe ejecutivo (EDA).
+
 ### [Mapeo](https://github.com/JaimeAmuedoJAH/Mapeo)
 Proyecto de geolocalización y mapeo de datos (scripts y notebooks) para análisis espacial ágil.
 
