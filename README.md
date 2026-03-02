@@ -90,12 +90,6 @@ Soy un desarrollador especializado en desarrollo java y análisis de datos, apas
   </p>
 </div>
 
-### 🚀 Uso de Tecnologías
-
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeAmuedoJAH&layout=compact&hide_border=true&title_color=FF6D00&text_color=FFFFFF&bg_color=0d1117"/>
-</div>
-
 ## Proyectos destacados
 
 ### [consulta-analisis-datos-sakila](https://github.com/JaimeAmuedoJAH/consulta-analisis-datos-sakila)
