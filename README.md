@@ -92,8 +92,13 @@ Soy un desarrollador especializado en desarrollo java y análisis de datos, apas
 
 ## Proyectos destacados
 
-### [consulta-analisis-datos-sakila](https://github.com/JaimeAmuedoJAH/consulta-analisis-datos-sakila)
-Exploración y limpieza de la base de datos Sakila: generación de dataframes en SQL, notebook reproducible y export de dataset limpio para análisis posterior.
+### [Proyecto-ML-end_to_end](https://github.com/JaimeAmuedoJAH/Proyecto-ML-end_to_end)
+Proyecto end-to-end de Machine Learning para predecir najas en telecomunicaciones, incluyendo ETL, EDA, modelado predictivo, 
+dashboard en Streamlit, containerización con Docker y despliegue en la nube.
+
+### [Análisis negocio airbnb](https://github.com/JaimeAmuedoJAH/Analisis_negocio_airbnb)
+Análisis exhaustivo de dataset acerca de airbnb, con el análisis y estudio de los alojamientos y distintos kpis acerca
+de la empresa.
 
 ### [Data-automatization](https://github.com/JaimeAmuedoJAH/Data-automatization)
 Automatización de extracción y procesamiento de datos con Python: pipelines ETL, visualizaciones y dashboard para bienestar digital.
