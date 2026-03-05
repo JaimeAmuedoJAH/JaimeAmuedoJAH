@@ -109,5 +109,5 @@ Creación del análisis exhaustivo de un dataset, junto con la creación de un i
 ### [Mapeo](https://github.com/JaimeAmuedoJAH/Mapeo)
 Proyecto de geolocalización y mapeo de datos (scripts y notebooks) para análisis espacial ágil.
 
-### [PRY-TFG](https://github.com/JaimeAmuedoJAH/PRY-TFG)
+### [PRY-TFG](https://github.com/JaimeAmuedoJAH/PRY_TFG)
 Proyecto de fin de grado sobre seguimiento y análisis de ligas de tenis de mesa (ingesta, visualizaciones y métricas de rendimiento).
