@@ -106,8 +106,9 @@ Automatización de extracción y procesamiento de datos con Python: pipelines ET
 ### [Análisis exploratorio-EDA](https://github.com/JaimeAmuedoJAH/P5-Analisis-Exploratorio-de-Datos-G6)
 Creación del análisis exhaustivo de un dataset, junto con la creación de un informe ejecutivo (EDA).
 
-### [Mapeo](https://github.com/JaimeAmuedoJAH/Mapeo)
-Proyecto de geolocalización y mapeo de datos (scripts y notebooks) para análisis espacial ágil.
+### [Mapeo_frontend](https://github.com/JaimeAmuedoJAH/Mapeo)
+### [Mapeo_backend](https://github.com/JaimeAmuedoJAH/Mapeo-Backend)
+Proyecto formativo donde puedes registrar viajes deseados y a realizar.
 
 ### [PRY-TFG](https://github.com/JaimeAmuedoJAH/PRY_TFG)
 Proyecto de fin de grado sobre seguimiento y análisis de ligas de tenis de mesa (ingesta, visualizaciones y métricas de rendimiento).
