@@ -108,7 +108,10 @@ Creación del análisis exhaustivo de un dataset, junto con la creación de un i
 
 ### [Mapeo_frontend](https://github.com/JaimeAmuedoJAH/Mapeo)
 ### [Mapeo_backend](https://github.com/JaimeAmuedoJAH/Mapeo-Backend)
-Proyecto formativo donde puedes registrar viajes deseados y a realizar.
+Proyecto donde puedes registrar viajes deseados y a realizar.
 
 ### [PRY-TFG](https://github.com/JaimeAmuedoJAH/PRY_TFG)
 Proyecto de fin de grado sobre seguimiento y análisis de ligas de tenis de mesa (ingesta, visualizaciones y métricas de rendimiento).
+
+### [E-commerce_backend](https://github.com/JaimeAmuedoJAH/E-commerce_backend)
+Proyecto donde puedo visitar una pagina web de una tienda donde puedes realizar compras online
