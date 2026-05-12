@@ -114,4 +114,5 @@ Proyecto donde puedes registrar viajes deseados y a realizar.
 Proyecto de fin de grado sobre seguimiento y análisis de ligas de tenis de mesa (ingesta, visualizaciones y métricas de rendimiento).
 
 ### [E-commerce_backend](https://github.com/JaimeAmuedoJAH/E-commerce_backend)
+### [E-commerce_frontend](https://github.com/JaimeAmuedoJAH/E-commerce_frontend)
 Proyecto donde puedo visitar una pagina web de una tienda donde puedes realizar compras online
